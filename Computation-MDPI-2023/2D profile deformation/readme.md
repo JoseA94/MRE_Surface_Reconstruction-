@@ -5,13 +5,12 @@ Physical parameters used for simulation:
 
 Surface parameters: 
 
-$\tau_{x}$ = $\tau_{y}$=  2 $\upmu m$   
+$\tau_{x}$ = $\tau_{y}$=  0.4 $\upmu m$   
 RMS = 2 $\upmu m$ 
     
 
 ## Figure Information
 
-<img src="./Figure_5.png"/>
+<img src="./Figure_7.png"/>
 
-Surface for the elastomer-magnetic particle system for test 1  with RMS height of 2 $\upmu m$, $\tau_{x}$ = 2  $\upmu m$ and $\tau_{y}$ = 2  $\upmu m$   **a** Initial surface
-without modification. **b** Surface modified by the movement of the particles
+Cross section of the 3D surface for test 2 comparison of initial profile (red line) and modified profile (blue line). Parallel horizontal black lines represent the band of 30\% of the total height of the initial simulation box.
